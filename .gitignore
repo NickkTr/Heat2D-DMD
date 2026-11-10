@@ -1,0 +1,7 @@
+__pycache__
+.ipynb_checkpoints
+venv
+*.mp4
+data
+anims
+results
